@@ -1,0 +1,7 @@
+https://viacep.com.br/ws/60749020/json/
+https://servicodados.ibge.gov.br/api/v1/localidades/estados
+json viewer for chrome - extensão
+
+https://servicodados.ibge.gov.br/api/v1/localidades/estados/{UF}/municipios
+
+formulario que utilize as apis e preeencha
